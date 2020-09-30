@@ -1,5 +1,4 @@
-ilk kod 
-ikinci kod
-üçüncü kod
-dördüncü kod
-
+1. satır 
+2. satır
+3. satır
+4. satır
